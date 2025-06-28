@@ -1,4 +1,4 @@
-Level3
+Level1
 :false,"Coin3Collected":false,"Coin4Collected":false,"Coin5Collected":false},{"level":1458062114,"Coin1Collected":false,
 "Coin2Collected":false,"Coin3Collected":false,"Coin4Collected":false,"Coin5Collected":false},{"level":1458289179,"Coin1C
 ollected":false,"Coin2Collected":false,"Coin3Collected":false,"Coin4Collected":false,"Coin5Collected":false},{"level":14
