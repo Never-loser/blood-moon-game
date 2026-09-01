@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime saves (created by the game)
+save.json
+saving.txt.bak
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+*.spec
